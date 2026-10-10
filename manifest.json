@@ -1,8 +1,9 @@
 {
-  "id": "finca360-servicios-app",
+  "id": "/App-Servicios-Lanzador/",
+  "scope": "/App-Servicios-Lanzador/",
+  "start_url": "/App-Servicios-Lanzador/index.html",
   "name": "Finca360 Servicios",
   "short_name": "Servicios",
-  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#2c3e50",
   "theme_color": "#2c3e50"
