@@ -29,6 +29,11 @@
     }
   </style>
 </head>
+  <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js');
+  }
+  </script>
 <body>
   <iframe src="https://script.google.com/macros/s/AKfycbzc37LqcOzNyiVEsY9jGK4cKEL7pjUuGd7JHNXsJHrGGPVn3hfuSaxKnlKkGdqooSUr-w/exec"></iframe>
 </body>
